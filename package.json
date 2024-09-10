@@ -1,0 +1,14 @@
+{
+  "name": "mortgage-calculator",
+  "version": "1.0.0",
+  "description": "A mortgage calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Huemmer",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.78.0"
+  }
+}
