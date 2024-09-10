@@ -4,7 +4,8 @@
   "description": "A mortgage calculator",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/styles.scss dist/styles.css"
   },
   "author": "Nick Huemmer",
   "license": "MIT",
